@@ -1,6 +1,3 @@
-# ESP32_SMART_BOX_OLED_WEB
-The main function here is to set the alarm clock through the WEB terminal, and then you can control the servo, voice, and buzzer regularly, and set the button to close. In order to achieve multi-threading, the FreeROST system is used, and dual-core is used.
-
 English version：
 
 Something you should know:
@@ -18,6 +15,7 @@ C. I use the cheaper plan about the voice part, you can use a file of MP3, conve
 D. if you have some question about it ,you can contact me by CSDN
 
 MY CSDN NAME: Reedsway在重庆
+
 
 
 中文介绍：
